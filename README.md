@@ -136,19 +136,42 @@ Our portfolio spans across various sectors including:
 
 <div align="center">
 
-```mermaid
-graph TD
-    A[Strategic Assessment] --> B[Custom Solution Design]
-    B --> C[Technology Implementation]
-    C --> D[Capacity Development]
-    D --> E[Partnership Integration]
-    E --> F[Impact Measurement]
-    F --> G[Sustainable Growth]
-    G --> A
-    
-    style A fill:#00D4AA,stroke:#333,stroke-width:2px,color:#fff
-    style G fill:#FF6B35,stroke:#333,stroke-width:2px,color:#fff
-```
+### 🔄 **7-Stage Transformation Process**
+
+<table>
+<tr>
+<td align="center" width="14.28%">
+<img src="https://img.shields.io/badge/1-Strategic_Assessment-00D4AA?style=for-the-badge&logo=search&logoColor=white" alt="Step 1" /><br/>
+<sub><b>🔍 Analysis</b></sub>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.shields.io/badge/2-Solution_Design-2196F3?style=for-the-badge&logo=design&logoColor=white" alt="Step 2" /><br/>
+<sub><b>🎨 Planning</b></sub>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.shields.io/badge/3-Tech_Implementation-9C27B0?style=for-the-badge&logo=code&logoColor=white" alt="Step 3" /><br/>
+<sub><b>💻 Development</b></sub>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.shields.io/badge/4-Capacity_Building-FF9800?style=for-the-badge&logo=users&logoColor=white" alt="Step 4" /><br/>
+<sub><b>👥 Training</b></sub>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.shields.io/badge/5-Partnership_Integration-4CAF50?style=for-the-badge&logo=handshake&logoColor=white" alt="Step 5" /><br/>
+<sub><b>🤝 Collaboration</b></sub>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.shields.io/badge/6-Impact_Measurement-F44336?style=for-the-badge&logo=analytics&logoColor=white" alt="Step 6" /><br/>
+<sub><b>📊 Evaluation</b></sub>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.shields.io/badge/7-Sustainable_Growth-FF6B35?style=for-the-badge&logo=trending-up&logoColor=white" alt="Step 7" /><br/>
+<sub><b>🌱 Scale</b></sub>
+</td>
+</tr>
+</table>
+
+**🔄 Continuous Improvement Cycle:** Each project feeds insights back into our strategic assessment process, ensuring continuous refinement and excellence.
 
 </div>
 
