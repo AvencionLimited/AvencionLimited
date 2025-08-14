@@ -1,97 +1,151 @@
-# Avencion Limited
-Leading technology company in Africa — transforming organizations through strategic partnerships, ICT4D, and capacity building.
+# 🌍 Avencion Limited
 
-[Website](https://avencion.com) · [Contact](mailto:info@avencion.com) · Zambia: +260 960 638 188 · USA: +1 603 676 7171
+<div align="center">
 
----
+**Leading Technology Company in Africa**
 
-<!-- Badges / Live GitHub Stats (reliable shields.io replacements) -->
-<p align="left">
-  <img src="https://img.shields.io/github/followers/AvencionLimited?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/clients-350%2B-brightgreen" alt="Trusted Clients" />
-  <img src="https://img.shields.io/badge/projects-215%2B-blue" alt="Completed Projects" />
-  <img src="https://img.shields.io/badge/contributions-213-blue" alt="Contributions (last year)" />
-  <img src="https://img.shields.io/badge/visitors-See%20Repo-lightgrey" alt="Profile Visits" />
-</p>
+🚀 **Transforming Organizations** • 🤝 **Strategic Partnerships** • 📊 **ICT4D Solutions** • 🌱 **Capacity Building**
 
----
+[![Website](https://img.shields.io/badge/🌐_Website-avencion.com-00D4AA?style=for-the-badge)](https://avencion.com)
+[![Email](https://img.shields.io/badge/📧_Contact-info@avencion.com-EA4335?style=for-the-badge)](mailto:info@avencion.com)
 
-## About
-Avencion Limited empowers organizations to implement their vision by designing and delivering high-impact solutions across Africa. We partner with governments, businesses, and communities to build sustainable, data-driven, and inclusive programs across health, energy, technology, infrastructure, agriculture, education, and government sectors.
+📍 **Zambia:** +260 960 638 188 • **USA:** +1 603 676 7171
 
-Our mission is to deliver impactful solutions by prioritizing clients, leveraging human capacity, and fostering growth through sustainable partnerships. We envision empowering organizations for transformative growth through strategic partnerships and inclusive solutions.
+</div>
 
 ---
 
-## Quick Facts
-- 350+ Trusted Clients  
-- 215+ Completed Projects  
-- 15+ Years Experience  
-- 2 Regional Offices (Zambia & USA)
+<div align="center">
+
+## 🎯 **Impact at a Glance**
+
+| 🤝 **350+ Trusted Clients** | ✅ **215+ Completed Projects** | 📅 **15+ Years Experience** | 🏢 **2 Regional Offices** |
+|:---:|:---:|:---:|:---:|
+| Building lasting partnerships | Delivering measurable results | Proven track record | Global presence |
+
+</div>
 
 ---
 
-## Core Services
-- Market Research & Analysis  
-- Technology for Development (ICT4D)  
-- Public-Private Partnership (PPP) Implementation  
-- Data Management & Strategic Information Systems  
-- E-Government & Performance Management Systems  
-- Stakeholder Management & Coordination  
-- Human Resources Services (Recruitment, Payroll, Organisational Development, Psychometric Assessments)  
-- Tailored Solutions & HR Project Management
+## 🚀 **About Avencion**
+
+Avencion Limited stands at the forefront of **African technological transformation**, partnering with governments, businesses, and communities to build sustainable, data-driven, and inclusive solutions. We specialize in bridging the gap between vision and implementation across health, energy, technology, infrastructure, agriculture, education, and government sectors.
+
+<details>
+<summary><b>🎯 Our Mission & Vision</b></summary>
+<br>
+
+> **Mission:** Deliver impactful solutions by prioritizing clients, leveraging human capacity, and fostering growth through sustainable partnerships.
+
+> **Vision:** Empowering organizations for transformative growth through strategic partnerships and inclusive solutions.
+
+</details>
 
 ---
 
-## Project Highlights
-Here are some representative projects and repository placeholders — replace the links with your actual GitHub repo URLs to show project code, demos, or case studies.
+## 🛠️ **Core Expertise**
 
-- [E-Government Performance System](https://github.com/AvencionLimited/egov-performance) — Scalable e-government platform for performance management and strategic information.
-- [ICT4D Health Analytics](https://github.com/AvencionLimited/ict4d-health-analytics) — Data systems and dashboards supporting public health programs.
-- [HR & Payroll Platform](https://github.com/AvencionLimited/hr-payroll) — Recruitment, payroll processing, and psychometric assessment tools for enterprises.
+<div align="center">
 
-(If you provide repo names or links I will replace these placeholders with live cards, contribution stats, and direct repo badges.)
+### 💼 **Service Portfolio**
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## How We Deliver Impact
-We combine human capacity development, technology, private sector partnerships, and youth & learning programs to create integrated solutions. From strategic partnership assessments and custom solution design to impact measurement frameworks, we focus on measurable outcomes and sustainable change.
+**🔬 Research & Analytics**
+- Market Research & Analysis
+- Data Management & Strategic Information Systems
+- E-Government & Performance Management Systems
 
-Core Values
-- Strategic Partnerships  
-- Inclusive Solutions  
-- Human Capacity Development  
-- Quality & Passion for Results  
-- Data-driven Decision Making (ICT4D)
+**🌐 Technology Solutions**
+- Technology for Development (ICT4D)
+- Digital Transformation Initiatives
+- Custom Solution Development
 
----
+</td>
+<td width="50%" valign="top">
 
-## Notable Partners & Clients
-Harvard University · Columbia University · Boston University · UCLA · MIT · University of San Francisco · PEPFAR · CDC · MasterCard Foundation · Gates Foundation · Black & Veatch · Copperbelt Energy Company · MTN · Airtel · Vodacom · Emirates Airlines · Smart Africa · ZBAN
+**🤝 Strategic Partnerships**
+- Public-Private Partnership (PPP) Implementation
+- Stakeholder Management & Coordination
+- Partnership Assessment & Design
 
----
+**👥 Human Resources Services**
+- Recruitment & Payroll Processing
+- Organizational Development
+- Psychometric Assessments
+- HR Project Management
 
-## Careers & Collaboration
-We are always looking for talented collaborators and partners. Check our Careers page for opportunities and internship programs, and reach out if you'd like to partner on a project or tender:
-https://avencion.com/careers
+</td>
+</tr>
+</table>
 
----
-
-## Get In Touch
-Start your project or partnership conversation:
-- Email: info@avencion.com (we respond within 24 hours on business days)  
-- Zambia: +260 960 638 188  
-- USA: +1 603 676 7171
-
-Zambia Office: 2 Chifumbule Road, Woodlands, Lusaka, Zambia  
-USA Office: 7557 Main Street Suite 601, Houston, TX 77030, USA
-
-Contact form: https://avencion.com/contact
+</div>
 
 ---
 
-## Notes & Next Steps
-- To show per-project live stats, give me the GitHub repo names (e.g., AvencionLimited/egov-performance) and I'll insert repo-specific badges and contribution summaries.  
-- If you'd like the dynamic github-readme-stats back, I can add a GitHub Action to generate and commit the SVGs (more reliable) — I can set that up after this README is updated.
+## 🏆 **Featured Projects**
 
-© 2025 Avencion Limited — Transforming Africa Through Partnerships
+<div align="center">
+
+| 🏛️ **E-Government Platform** | 🏥 **Health Analytics System** | 👥 **HR & Payroll Platform** |
+|:---:|:---:|:---:|
+| [![E-Gov](https://img.shields.io/badge/Performance_Management-00D4AA?style=for-the-badge)](https://github.com/AvencionLimited/egov-performance) | [![Health](https://img.shields.io/badge/ICT4D_Health_Analytics-FF6B6B?style=for-the-badge)](https://github.com/AvencionLimited/ict4d-health-analytics) | [![HR](https://img.shields.io/badge/HR_Solutions-4ECDC4?style=for-the-badge)](https://github.com/AvencionLimited/hr-payroll) |
+| Scalable e-government platform for performance management and strategic information | Advanced data systems and dashboards supporting public health programs | Comprehensive recruitment, payroll processing, and assessment tools |
+
+</div>
+
+<details>
+<summary><b>🔍 View More Sectors We Serve</b></summary>
+<br>
+
+Our expertise spans across multiple critical sectors:
+
+- **🏥 Health:** Digital health systems, epidemiological surveillance, program management
+- **⚡ Energy:** Smart grid solutions, renewable energy project management
+- **🌾 Agriculture:** Precision farming analytics, supply chain optimization
+- **🎓 Education:** Learning management systems, capacity building platforms
+- **🏗️ Infrastructure:** Asset management systems, project tracking tools
+- **🏛️ Government:** Policy implementation, performance monitoring, citizen services
+
+</details>
+
+---
+
+## 🌟 **How We Deliver Impact**
+
+<div align="center">
+
+### 📈 **Our Integrated Approach**
+
+```
+Strategic Assessment → Custom Solution Design → Technology Implementation
+         ↑                                                           ↓
+Sustainable Growth ← Impact Measurement ← Partnership Integration ← Capacity Development
+```
+
+</div>
+
+### 🎯 **Core Values**
+
+<div align="center">
+
+| 🤝 **Strategic Partnerships** | 🌍 **Inclusive Solutions** | 👥 **Human Capacity Development** | 📊 **Data-Driven Decisions** | 🏆 **Quality Excellence** |
+|:---:|:---:|:---:|:---:|:---:|
+| Building sustainable alliances | Creating accessible solutions for all | Empowering people and communities | ICT4D implementation | Passion for exceptional results |
+
+</div>
+
+---
+
+## 🌐 **Global Network**
+
+<details>
+<summary><b>🤝 Notable Partners & Clients</b></summary>
+<br>
+
+### 🎓 **Academic Institutions**
+Harvard University • Columbia University • Boston University • UCLA • MIT • University of San Francisco
+
+### 🏛️ **Government & International Organizations
